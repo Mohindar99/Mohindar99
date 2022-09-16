@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/mohindar99/mohindar99/blob/main/web3.gif)]
+![MasterHead](https://github.com/mohindar99/mohindar99/blob/main/web3_banner.jpg)
 ## hey there !!!
 <a href="https://www.instagram.com/__mohindar.amarnadh__/">
   <img align="left" alt="Mohindar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
