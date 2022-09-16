@@ -53,9 +53,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br></br>
 <a href="https://github.com/mohindar99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohindar99&theme=light&layout=compact&exclude_repo=colordetection" />
-</a>
-<a href="https://github.com/mohindar99">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohindar99&show_icons=true&theme=light&line_height=20" alt="Neel's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohindar99&show_icons=true&theme=light&line_height=20" alt="Neel's github stats"/>
 </a>
 
 🚧 **my todoist stats:**
