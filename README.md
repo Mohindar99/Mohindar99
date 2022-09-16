@@ -14,7 +14,7 @@
 
 <br />
 <br></br>
-hi, i'm <b>Mohindar Amarnadh</b> , a passionate self-taught solidity web3 developer and a freelance software engineer from india. my passion for coding lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm <b>Mohindar Amarnadh</b> , a passionate self-taught web3 developer and a freelance software engineer from india. my passion for coding lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 <br></br>
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how blockchain helps in democratizing content creation and eliminating the middleman.
 
@@ -27,6 +27,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **languages and tools:**  
 <code><img height="20" src="https://github.com/mohindar99/mohindar99/blob/main/solidity-logo.png"></code>
+<code><img height="20" src="https://github.com/mohindar99/mohindar99/blob/main/ethers.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -49,14 +50,19 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<br></br>
+<a href="https://github.com/mohindar99">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohindar99&show_icons=true&theme=light&line_height=20" alt="Neel's github stats"/>
+</a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  Ethereum Developer...           
-🌸  Completed 0 tasks today           
-✅  Completed 6 tasks so far. Long way to go           
+🏆  Become a <b>ETH</b> Developer...           
+🌸  Engage in research activities       
+✅  Long way to go           
 ⏳  Longest streak is 7 days
 <!-- TODO-IST:END -->
-
+---
+Explore as much as you can! Thanks for visiting and come back soon .✌️
 
 
