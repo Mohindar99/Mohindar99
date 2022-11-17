@@ -21,7 +21,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 📝 follow my <b>Blog</b> for more web3 stuff, [hashnode](https://mohindar99.hashnode.dev/)-:)
+- 📝 follow my <b>Blog</b> for more web3 stuff,  [hashnode](https://mohindar99.hashnode.dev/)
 - 💼 any freelance work? do reach, [email](mailto:d.mohindar1999@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
