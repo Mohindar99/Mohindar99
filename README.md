@@ -57,9 +57,18 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br></br>
-<a href="https://github.com/mohindar99">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohindar99&theme=light&layout=compact&exclude_repo=colordetection"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohindar99&show_icons=true&theme=light&line_height=20" alt="Neel's github stats"/>
-</a>
+
+<h2>ℹ️ &nbsp;Github Info</h2>
+
+  <summary><b>⚡ Github Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohindar99&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="TopCodeBeast" align = "center"/>
+
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohindar99&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Mohindar" /></p>
+
+<summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/mohindar99"><img src="https://github-profile-trophy.vercel.app/?username=mohindar99&margin-w=5&theme=radical" alt="TopCodeBeast" /></a> </p>
+
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
