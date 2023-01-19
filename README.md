@@ -61,7 +61,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <h2>ℹ️ &nbsp;Github Info</h2>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohindar99&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="TopCodeBeast" align = "center"/>
 
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohindar99&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Mohindar" /></p>
