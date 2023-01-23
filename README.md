@@ -74,7 +74,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 🏆  Become a <b>ETH</b> Developer...           
 🌸  Engage in research activities       
 ✅  Long way to go           
-⏳  Longest streak is 7 days
+⏳  Longest streak is 11 days
 <!-- TODO-IST:END -->
 ---
 Explore as much as you can! Thanks for visiting and come back soon .✌️
