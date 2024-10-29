@@ -35,7 +35,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Solidity     15 hrs 56 mins  ██████████████████░░░░░░░   64.53 %
+Python     15 hrs 56 mins  ██████████████████░░░░░░░   64.53 %
 React        6 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   23.08 %
 CSS          2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   8.10 %
 JavaScript   1hrs 15 min     █░░░░░░░░░░░░░░░░░░░░░░░░   4.16 %
